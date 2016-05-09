@@ -1,6 +1,10 @@
 # BlightFight
 Repo for Capstone Project of Data Science at Scale course offered by University of Washington on Coursera.
 
+[Final Report](https://github.com/dnc1994/BlightFight/blob/master/src/Final-Report.ipynb)
+
+[Average Blight Risk Visualization](https://dnc1994.com/BlightFight/src/dmap.html)
+
 ## Task
 
 Work with real data collected in Detroit to help urban planners predict **blight** (the deterioration and decay of buildings and older areas of large cities, due to neglect, crime, or lack of economic support).
