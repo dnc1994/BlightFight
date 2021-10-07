@@ -3,7 +3,7 @@ Repo for Capstone Project of Data Science at Scale course offered by University 
 
 [Final Report](https://github.com/dnc1994/BlightFight/blob/master/src/Final-Report.ipynb)
 
-[Average Blight Risk Visualization](https://dnc1994.com/BlightFight/src/dmap.html)
+[Average Blight Risk Visualization](https://dnc1994.github.io/BlightFight/src/dmap.html)
 
 ## Task
 
